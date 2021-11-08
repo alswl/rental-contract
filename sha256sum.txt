@@ -1,0 +1,3 @@
+789b521628886f977cacecf682f16a494d13f16d47e06a5bac6870c688fa7a45  README.md
+cdbc925c922d4ba67f67b88556027d8b4398e06ec5f570c40c3de4a27e1a6a9b  shanghai-2014-rental-contract-sanitizered.docx
+3b558b42032502b3198c6cb65c08e9e61947d2b1bd1485479d72d7da3ee6480a  shanghai-2014-rental-contract.pdf
